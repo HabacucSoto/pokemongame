@@ -1,5 +1,15 @@
 # pokemon-game
 
+## Deploy on netlify
+```
+npm run build
+```
+
+## Update on netlify
+```
+
+```
+
 ## Project setup
 ```
 npm install
